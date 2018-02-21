@@ -15,3 +15,7 @@ Branches are local copies of a local project used for creating a another local v
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To compare you current project to
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I wouldn't
